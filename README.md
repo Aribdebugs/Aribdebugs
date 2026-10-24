@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Arib 👋
 
-<!--
-**Aribdebugs/Aribdebugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year CSE student building **AI-powered tools for e-commerce** with Python.
+Currently working through a 5-project series, from data analytics to an AI shopping assistant.
 
-Here are some ideas to get you started:
+## 🛒 E-commerce AI Portfolio
+| Project | What it does | Status |
+|---|---|---|
+| ShopPulse | Sales analytics dashboard on 100K real orders | 🔨 Building |
+| PriceWatch | Competitor price tracker with alerts | ⏳ Next |
+| SegmentIQ | Customer segmentation with ML | ⏳ |
+| ReviewLens | Bangla/English review sentiment analysis | ⏳ |
+| BuyGPT | AI shopping assistant chatbot | ⏳ |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💳 Other Projects
+- [bKash USSD Menu Simulator](https://github.com/Aribdebugs/USSD-Menu-Project): Python simulation of a mobile banking menu (send money, cash out, recharge, payments)
+
+## 🛠 Tools
+Python · pandas · Git · (more coming as I build)
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/arib-uz-zaman-353aa82a2) · aribuzzaman11@gmail.com
