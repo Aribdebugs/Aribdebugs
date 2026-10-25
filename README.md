@@ -6,7 +6,7 @@ Currently working through a 5-project series, from data analytics to an AI shopp
 ## 🛒 E-commerce AI Portfolio
 | Project | What it does | Status |
 |---|---|---|
-| ShopPulse | Sales analytics dashboard on 100K real orders | 🔨 Building |
+| ShopPulse | Sales analytics dashboard on 100K real orders | Done|
 | PriceWatch | Competitor price tracker with alerts | ⏳ Next |
 | SegmentIQ | Customer segmentation with ML | ⏳ |
 | ReviewLens | Bangla/English review sentiment analysis | ⏳ |
